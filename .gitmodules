@@ -1,0 +1,3 @@
+[submodule "JustCleaning-Server"]
+	path = JustCleaning-Server
+	url = git@github.com:Grigory-F/JustCleaning-Server.git
